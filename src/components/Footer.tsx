@@ -14,16 +14,16 @@ export default function Footer() {
               Speaker, writer, and youth development advocate passionate about helping young people discover purpose, create value, and make meaningful impact.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="https://www.instagram.com/nansel_joel?igsh=bDRrNTZsbGYybmd5" className="text-muted-foreground hover:text-primary transition-colors">
                 <Instagram size={20} />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="https://www.facebook.com/nansel.demas" className="text-muted-foreground hover:text-primary transition-colors">
                 <Facebook size={20} />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="https://www.linkedin.com/in/nansel-joel-a9a560323?utm_source=share_via&utm_content=profile&utm_medium=member_android#" className="text-muted-foreground hover:text-primary transition-colors">
                 <Linkedin size={20} />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="https://youtube.com/@wordsmith_j_nansel?si=MjuanoB5AkV4vqMG" className="text-muted-foreground hover:text-primary transition-colors">
                 <Youtube size={20} />
               </a>
             </div>
