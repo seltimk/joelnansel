@@ -131,7 +131,7 @@ export default function Home() {
           <motion.div {...fadeInUp}>
             <div className="aspect-square rounded-2xl overflow-hidden shadow-xl">
               <img
-                src="https://drive.google.com/file/d/17FAzunKVi8F4-q6TgaIduHsTKiW_e06H/view?usp=sharing"
+                src="https://scontent.fabv2-1.fna.fbcdn.net/v/t51.82787-15/703622111_18091585457609556_8436246045346840986_n.webp?stp=dst-jpg_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEB3bDoIalhFHtVsqDsXIzXM6JJ5xJjLjszoknnEmMuO2Pf5L8TKLLYB_2eD4cWkxmLo0jZZrpM21SLdnOhtK14&_nc_ohc=Xk-SRdJ5-CQQ7kNvwEBm-nw&_nc_oc=AdqKaRcsL4E_uph8PWGdEMeao9NwOhecTuSZv-vURVG7MmtK3z55fgTXdKNUAr3s1bM&_nc_zt=23&_nc_ht=scontent.fabv2-1.fna&_nc_gid=m4dRmI0wIs7a-maoWEh3Xg&_nc_ss=7a2a8&oh=00_Af93WZlBEfyTrUWx6Xh8GpNV0lkKq0uebpold-FYrE0avw&oe=6A263215"
                 alt="Meet Nansel"
                 className="w-full h-full object-cover"
               />
