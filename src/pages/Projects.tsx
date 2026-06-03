@@ -7,7 +7,7 @@ export default function Projects() {
     {
       title: "Inspire and Impact Leadership Conference",
       desc: "A leadership conference designed to shape the mindset of teenagers and young leaders through mentorship, leadership training, networking, and transformational sessions.",
-      theme: "MINDSHIFT — Shaping the Minds of Young Leaders for Global Relevance",
+      
       img: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c9029fb6-12d8-4ab7-aa9d-9ce88836bab6/leadership-conference-4a5e5591-1779226340604.webp"
     },
     {
