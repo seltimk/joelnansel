@@ -131,7 +131,7 @@ export default function Home() {
           <motion.div {...fadeInUp}>
             <div className="aspect-square rounded-2xl overflow-hidden shadow-xl">
               <img
-                src="public\nsj.JPG"
+                src="https://drive.google.com/file/d/17FAzunKVi8F4-q6TgaIduHsTKiW_e06H/view?usp=sharing"
                 alt="Meet Nansel"
                 className="w-full h-full object-cover"
               />
