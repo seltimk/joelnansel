@@ -9,7 +9,7 @@ export default function Projects() {
       desc: "A leadership conference designed to shape the mindset of teenagers and young leaders through mentorship, leadership training, networking, and transformational sessions.",
       
       img: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c9029fb6-12d8-4ab7-aa9d-9ce88836bab6/leadership-conference-4a5e5591-1779226340604.webp"
-    },
+    }
     {
       title: "The Purpose Tour",
       desc: "A traveling initiative focused on helping young people discover purpose, develop vision, and take intentional action toward impactful living.",
