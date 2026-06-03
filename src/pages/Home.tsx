@@ -131,7 +131,7 @@ export default function Home() {
           <motion.div {...fadeInUp}>
             <div className="aspect-square rounded-2xl overflow-hidden shadow-xl">
               <img
-                src="https://storage.googleapis.com/dala-prod-public-storage/generated-images/c9029fb6-12d8-4ab7-aa9d-9ce88836bab6/mentorship-hangout-81d931e9-1779226340105.webp"
+                src="https://storage.googleapis.com/dala-prod-public-storage/attachments/20b08272-65e8-426d-900c-11e01a7ce0ba/1780311535785_NANSEL_PORTRAIT.jpg"
                 alt="Meet Nansel"
                 className="w-full h-full object-cover"
               />
