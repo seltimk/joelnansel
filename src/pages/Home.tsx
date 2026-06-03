@@ -210,8 +210,8 @@ export default function Home() {
           </div>
           <div className="rounded-2xl overflow-hidden shadow-2xl">
             <img
-              src="https://storage.googleapis.com/dala-prod-public-storage/generated-images/c9029fb6-12d8-4ab7-aa9d-9ce88836bab6/leadership-conference-4a5e5591-1779226340604.webp"
-              alt="Speaking"
+              src="https://scontent.fabv2-2.fna.fbcdn.net/v/t39.30808-6/575145720_4090859377835143_4044817218337434631_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFy5JRIbAYyLZbc2DQWab-zvRCSiRUii4u9EJKJFSKLi08VkhXogq69F4MCz85MdWC9-2f-Z8-p0jN47r9P2Q3D&_nc_ohc=IOdiTi1AjtoQ7kNvwExqHCA&_nc_oc=AdpI7Q-cpLtgSAj26oLekddLtSGzGXKI_rS5B-VemZ4Vlpqnqe2k-HrMWq65mauwHiA&_nc_zt=23&_nc_ht=scontent.fabv2-2.fna&_nc_gid=_TPIP5J3lPo0fzRYCyCFqQ&_nc_ss=7a2a8&oh=00_Af_IX3wVSxAokzj40ghdHhHL2Qqgmx7BCraBAcKIb4woNg&oe=6A26410C"
+              alt="Nansel Joel Speaking"
               className="w-full h-full object-cover"
             />
           </div>
