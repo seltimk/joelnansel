@@ -19,7 +19,7 @@ export default function Projects() {
       title: "Impact Youth Hangout",
       desc: "A youth-centered gathering designed to inspire growth, leadership, creativity, and positive community engagement.",
       img: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?q=80&w=2000&auto=format&fit=crop"
-    }
+    },
   ];
 
   return (
