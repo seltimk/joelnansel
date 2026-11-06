@@ -8,7 +8,7 @@ export default function Projects() {
       title: "Inspire and Impact Leadership Conference",
       desc: "A leadership conference designed to shape the mindset of teenagers and young leaders through mentorship, leadership training, networking, and transformational sessions.",
       
-      img: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/c9029fb6-12d8-4ab7-aa9d-9ce88836bab6/leadership-conference-4a5e5591-1779226340604.webp"
+      img: "https://drive.google.com/file/d/1MttVu79NtuJugQtIOj4H-6WXXarklPda/view?usp=drive_link"
     },
     {
       title: "The Purpose Tour",

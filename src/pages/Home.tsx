@@ -130,7 +130,7 @@ export default function Home() {
         <div className="container mx-auto px-4 grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
           <motion.div {...fadeInUp}>
             <div className="aspect-square rounded-2xl overflow-hidden shadow-xl">
-              <img src="https://shorturl.at/g6ipa" alt="Meet Nansel Joel" className="w-full h-full object-cover"/>
+              <img src="/nsj.JPG" alt="Meet Nansel Joel" className="w-full h-full object-cover"/>
             </div>
           </motion.div>
           <motion.div {...fadeInUp} transition={{ delay: 0.2 }} className="space-y-6">
